@@ -1,0 +1,14 @@
+{
+  "name": "jsonpp",
+  "description": "JSON Pretty Printer for console output. (sans parens & squigglies)",
+  "version": "0.0.1",
+  "repository": {},
+  "author": "Francois Lafortune <@quickredfox>",
+  "main" : "./lib/jsonpp",
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
