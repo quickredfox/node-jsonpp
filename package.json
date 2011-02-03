@@ -2,7 +2,10 @@
   "name": "jsonpp",
   "description": "JSON Pretty Printer for console output. (sans parens & squigglies)",
   "version": "0.0.1",
-  "repository": {},
+  "repository": {
+      "type": "git",
+      "url" : "http://github.com/quickredfox/node-jsonpp.git"
+  },
   "author": "Francois Lafortune <@quickredfox>",
   "main" : "./lib/jsonpp",
   "directories": {
